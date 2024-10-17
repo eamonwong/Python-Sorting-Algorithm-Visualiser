@@ -14,18 +14,6 @@ This project is a visualization tool for sorting algorithms, built using the pyg
 - I: Switch to Insertion Sort.
 - B: Switch to Bubble Sort.
 
-## Project Structure
-- DrawInformation Class
-This class handles the drawing of the sorting visualization. It manages the window size, list data, and UI elements.
-
-- Functions
-  - draw: Handles rendering the UI and the list of numbers on the screen.
-  - draw_list: Draws the bars representing the numbers in the list, color-coded for clarity during sorting.
-  - generate_starting_list: Generates a random list of numbers for sorting.
-  - bubble_sort & insertion_sort: Implement the sorting logic with yield statements, allowing for step-by-step visualization.
-main() Function
-  - The main loop of the application handles user input and updates the sorting visualization based on user actions.
-
 ## Future Enhancements
 - Add more sorting algorithms (e.g., Merge Sort, Quick Sort).
 - Provide an option to adjust the speed of the visualization.
