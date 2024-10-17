@@ -21,7 +21,8 @@ This project is a visualisation tool for sorting algorithms, built using the pyg
 
 Enjoy watching algorithms sort your data in real-time!
 
-https://github.com/user-attachments/assets/9e11d4a8-d8aa-4dd2-800b-a39a95199bce
+https://github.com/user-attachments/assets/33e0999f-bd7f-458e-a9c3-e51d2cb1d47b
+
 
 
 
