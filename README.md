@@ -15,10 +15,10 @@ This project is a visualization tool for sorting algorithms, built using the pyg
 - B: Switch to Bubble Sort.
 
 ## Project Structure
-# DrawInformation Class
+DrawInformation Class
 This class handles the drawing of the sorting visualization. It manages the window size, list data, and UI elements.
 
-# Functions
+Functions
 - draw: Handles rendering the UI and the list of numbers on the screen.
 - draw_list: Draws the bars representing the numbers in the list, color-coded for clarity during sorting.
 - generate_starting_list: Generates a random list of numbers for sorting.
