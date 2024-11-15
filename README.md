@@ -17,6 +17,4 @@ This project is a visualisation tool for sorting algorithms, built using the pyg
 
 Whether you're a beginner looking to understand sorting or just love visualising code in action, this project is for you. Have fun sorting! 😊
 
-This version is more casual and engaging while still providing all the necessary information.
-
 https://github.com/user-attachments/assets/33e0999f-bd7f-458e-a9c3-e51d2cb1d47b
