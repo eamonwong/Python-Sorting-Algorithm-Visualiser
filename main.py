@@ -28,7 +28,7 @@ class DrawInformation:
         self.height = height
 
         self.window = pygame.display.set_mode((width, height))
-        pygame.display.set_caption("Python Sorting Algorithm Visualization")
+        pygame.display.set_caption("Python Sorting Algorithm Visualisation")
         self.set_list(lst)
 
         self.comparisons = 0
