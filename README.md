@@ -1,10 +1,11 @@
 # Python-Sorting-Algorithm-Visualiser
-This project is a visualisation tool for sorting algorithms, built using the pygame library in Python. It allows you to visualize both Bubble Sort and Insertion Sort, with options to reset the list, start sorting, and choose between ascending and descending orders.
+This project is a visualisation tool for sorting algorithms, built using the pygame library in Python. It allows you to visualise both Bubble Sort and Insertion Sort, with options to reset the list, start sorting, and choose between ascending and descending orders. The visualisation now includes real-time complexity analysis, showing the number of comparisons and swaps as the sorting progresses.
 
 ## Features and Functionality
-- Real-time Visualisation: See the sorting algorithms in action.
-- Two Sorting Algorithms: Bubble Sort and Insertion Sort are available.
-- Custom Controls: You can reset the list, toggle between sorting algorithms, and switch between ascending/descending orders.
+- **Real-time Visualisation**: Watch sorting algorithms operate step by step.
+- **Real-time Complexity Metrics**: Displays the number of comparisons and swaps during the sorting process.
+- **Two Sorting Algorithms**: Bubble Sort and Insertion Sort are currently supported.
+- **Custom Controls**: Reset the list, toggle between sorting algorithms, and switch between ascending/descending orders.
 
 ## Controls
 - R: Reset the list to a new randomly generated set of numbers.
@@ -14,20 +15,8 @@ This project is a visualisation tool for sorting algorithms, built using the pyg
 - I: Switch to Insertion Sort.
 - B: Switch to Bubble Sort.
 
-## Future Enhancements
-- Add more sorting algorithms (e.g., Merge Sort, Quick Sort).
-- Provide an option to adjust the speed of the visualisation.
-- Allow the user to specify the list size or range dynamically.
+Whether you're a beginner looking to understand sorting or just love visualising code in action, this project is for you. Have fun sorting! 😊
 
-Enjoy watching algorithms sort your data in real-time!
+This version is more casual and engaging while still providing all the necessary information.
 
 https://github.com/user-attachments/assets/33e0999f-bd7f-458e-a9c3-e51d2cb1d47b
-
-
-
-
-
-
-
-
-
